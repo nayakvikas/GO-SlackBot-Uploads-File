@@ -1,5 +1,5 @@
-module github.com/akhil/slack-file-bot
+module github.com/nayakvikas/slack-bot
 
 go 1.16
 
-require github.com/slack-go/slack v0.9.1 // indirect
+require github.com/slack-go/slack v0.9.1
